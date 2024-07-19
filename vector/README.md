@@ -52,4 +52,5 @@ Iterator includes:
 
 ## Conclusion
 This Vector is not a complete copy of the vector from the STL library. 
+
 -~<3<3<3 I'm a beginner programmer and i'll be glad to receive constructive criticism on any of my projects!
