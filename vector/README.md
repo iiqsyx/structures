@@ -16,6 +16,7 @@
 
 ## Vector in general
   Vector contains elements in memory as a subsequence. Vector always reserve more memory(capacity) for faster insertion.
-![image](https://github.com/user-attachments/assets/e27298c7-4750-4967-905e-28c06784dbb6)
+![image](https://github.com/user-attachments/assets/6b762e0e-a0e8-403a-8bc5-b59fe26e97c0)
+
 
 
